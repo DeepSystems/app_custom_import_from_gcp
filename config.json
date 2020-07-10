@@ -1,0 +1,6 @@
+{
+	"name": "Custom import from GCP #1",
+	"description": "Custom import for retail scenario. Create workspaces/project/datasets to keep hierarchy and directly uploads images",
+	"init_script": "src/main.py",
+	"docker_image": "xxx"
+}
